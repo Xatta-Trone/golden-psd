@@ -416,11 +416,9 @@ p,h3,a{
 
 .left{
 	float: left;
-	display: inline-block;
 }
 .right{
 	float: right;
-	display: inline-block;
 }
 
 
